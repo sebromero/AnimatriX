@@ -1,0 +1,24 @@
+{
+	"main": "build/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@framer/framer.device-skin-apple-iphone8-space-gray": "^1.0.0",
+		"@types/react": "^16.0.31",
+		"framer": "^0.9.0"
+	},
+	"peerDependencies": {
+		"framer": "^0.9.0",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "c8afaca0-8b37-4187-bade-15b8f159a2d7"
+	},
+	"author": "Kelvyn Marte",
+	"dependencies": {
+		"@framer/asci.animate": "^1.1.0",
+		"@framer/bredowmax.togglebutton": "^1.0.0",
+		"@framer/google.material-design": "^1.0.0",
+		"@framer/krijn.loading-indicators": "^1.4.0"
+	}
+}

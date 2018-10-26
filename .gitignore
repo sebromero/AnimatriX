@@ -1,0 +1,7 @@
+# Framer
+.cache
+.backups
+.npmrc
+node_modules
+*.framerxproj
+.DS_Store
